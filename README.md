@@ -1,6 +1,6 @@
 # McDono - Food Order Application
 
-A website for ordering food from a restaurant called McDono.
+A website for ordering food from a restaurant called McDono. Live Site: https://dikidikay-mcdono.netlify.app/
 
 In this application, you can add a meal to the cart from the available meals, and in the cart, 
 you can also increase the amount of the meal you just added and decrease the amount of the added meal or remove the added meal from the cart.
