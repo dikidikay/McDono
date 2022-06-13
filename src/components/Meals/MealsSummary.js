@@ -3,14 +3,12 @@ import classes from "./MealsSummary.module.css";
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
-      <h2>Delicious Food, Delivered To You</h2>
+      <h2>Every meal is a happy meal</h2>
+
       <p>
-        Choose your favorite meal from our broad selection of available meals
-        and enjoy a delicious lunch or dinner at home.
-      </p>
-      <p>
-        All our meals are cooked with high-quality ingredients, just-in-time and
-        of course by experienced chefs!
+        Savor a flavor at McDono, a brand-new restaurant in Indonesia. We’re
+        excited to bring something new to our community and can’t wait to share
+        our unique recipes.
       </p>
     </section>
   );
