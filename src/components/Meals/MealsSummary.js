@@ -3,7 +3,7 @@ import classes from "./MealsSummary.module.css";
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
-      <h2>Every meal is a happy meal</h2>
+      <h2>Every meal is a sad meal</h2>
 
       <p>
         Savor a flavor at McDono, a brand-new restaurant in Indonesia. We’re
